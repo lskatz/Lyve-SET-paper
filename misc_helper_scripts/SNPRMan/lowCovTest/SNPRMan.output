@@ -1,0 +1,14 @@
+SNPRMan.R. version 0.1
+R version 3.1.1 (2014-07-10)
+Package Vegan version: 2.3.2
+Time: 2015-12-08 09:59:59
+Date: 2015-12-08
+First matrix file: Lyve-SET.tsv
+Second matrix file: snp-pipeline.tsv
+Correlation method requested: spearman
+Correlation method used: Spearman's rank correlation rho
+Number of permutations requested: 1000
+Number of permutations performed: 1000
+Mantel statistic r: 0.578228849418166
+r^2: 0.334348602299456
+P-value (by permutation): 0.000999000999000999
